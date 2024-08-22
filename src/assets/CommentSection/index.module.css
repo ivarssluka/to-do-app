@@ -1,0 +1,41 @@
+.commentSection {
+  margin-top: 10px;
+  padding: 16px;
+  background-color: #eaf0f1d8;
+  border-radius: 8px;
+  max-width: 100%;
+  width: 100%;
+}
+
+.commentSection .comment {
+  padding: 12px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.commentSection .comment:last-child {
+  border-bottom: none;
+}
+
+.commentActions {
+  margin-top: 8px;
+  display: flex;
+  gap: 12px;
+}
+
+.commentActions button {
+  background: none;
+  border: none;
+  color: #1890ff;
+  cursor: pointer;
+  padding: 0;
+}
+
+.commentActions button:hover {
+  text-decoration: underline;
+}
+
+.commentModalContent {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}

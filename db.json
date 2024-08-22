@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": "1724332193576",
+      "title": "Task 1",
+      "content": "Have a coffee",
+      "completed": true,
+      "comments": []
+    },
+    {
+      "id": "1724332204145",
+      "title": "Task 2",
+      "content": "Write some code",
+      "completed": false,
+      "comments": []
+    },
+    {
+      "id": "1724332221664",
+      "title": "Task 3",
+      "content": "Rinse and repeat",
+      "completed": false,
+      "comments": [
+        {
+          "id": "29c096c1-b51f-4fa1-be8d-c605509a247b",
+          "text": "lolsassa"
+        },
+        {
+          "id": "a4f0bda5-ada6-4a77-bcfb-bdb96c03394d",
+          "text": "lololo\n"
+        }
+      ]
+    }
+  ]
+}

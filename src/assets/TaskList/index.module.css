@@ -1,0 +1,25 @@
+.taskListContainer {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.addTaskButton {
+  padding: 10px 16px;
+  background-color: #1890ff;
+  color: white;
+  border-radius: 4px;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.addTaskButton:hover {
+  background-color: #40a9ff;
+}

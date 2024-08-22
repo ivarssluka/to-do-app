@@ -1,0 +1,22 @@
+.taskCard {
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  transition: background-color 0.3s ease;
+}
+
+.taskCard:hover {
+  background-color: #f9f9f9;
+}
+
+.completedTask {
+  text-decoration-line: line-through;
+  color: #000000;
+}
+
+.buttons {
+  display: flex;
+  margin-top: 12px;
+}
